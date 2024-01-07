@@ -40,15 +40,18 @@ us les composants, services, intercepteurs et guards ont été testés de maniè
 
 - Login
 <img src="captures/login_admin.PNG">
+
 - L'ajout d'un nouveau client
 <img src="captures/new_cutomer_form_admin.png">
 <img src="captures/new_customer_form_validate_champs_admin.PNG">
 <img src="captures/new_customer_form_rempli_admin.PNG">
 <img src="captures/new_customer_form_validate_champs_message_sucess_admin.PNG">
 <img src="captures/new_customer_apres_ajout_admin.PNG">
+
 - Chercher
   <img src="captures/search_customer_admin.PNG">
-  <img src="captures/search_customer_admin_nom.PNG">
+  <img src="captures/search_customer_admin_nom.png">
+
 - Supprimer un client
   <img src="captures/delete_customer_admin.PNG">
 
@@ -69,9 +72,11 @@ us les composants, services, intercepteurs et guards ont été testés de maniè
 
 - Login
 <img src="captures/login_user.PNG">
+
 - Chercher
     <img src="captures/search_customer_user.PNG">
     <img src="captures/search_customer_user_by_nom.PNG">
+
 - Chercher un compte
   <img src="captures/account_user.PNG">
 
