@@ -12,12 +12,12 @@ Il est important de souligner que ce compte rendu se concentre principalement su
 ### Composants
 
 1. **Composants**
-   - **Customers & New-Customer Component** : Composant dédié à la gestion des clients.
-   - **Accounts Component**: Composant pour la gestion des comptes bancaires.
-   - **Customers-Accounts Component**: Composant assurant la gestion des relations entre clients et comptes.
-   - **Login Component**: Composant d'authentification permettant aux utilisateurs de se connecter.
-   - **environment.ts** :utilisé dans le projet Angular pour définir les variables d'environnement.
-   - **not-authorized**:
+- **Customers & New-Customer Component** : Composant dédié à la gestion des clients.
+- **Accounts Component**: Composant pour la gestion des comptes bancaires.
+- **Customers-Accounts Component**: Composant assurant la gestion des relations entre clients et comptes.
+- **Login Component**: Composant d'authentification permettant aux utilisateurs de se connecter.
+- **environment.ts** :utilisé dans le projet Angular pour définir les variables d'environnement.
+- **not-authorized**:
 
 2. **Services**
   - **Customers-Services**: Service associé à la gestion des clients.
@@ -62,9 +62,11 @@ us les composants, services, intercepteurs et guards ont été testés de maniè
  + Débit
   <img src="captures/debit_operation_admin.PNG">
   <img src="captures/apres_debit_operation_admin.PNG">
+
  + Transfer
     <img src="captures/transfer_operation_admin.PNG">
     <img src="captures/apres_tansfer_operation_admin.PNG">
+
 - Pagination
   <img src="captures/pagination.PNG">
 
