@@ -36,7 +36,7 @@ Il est important de souligner que ce compte rendu se concentre principalement su
 us les composants, services, intercepteurs et guards ont été testés de manière exhaustive pour assurer un fonctionnement correct et identifier tout comportement indésirable.
 
 ### Gestion des Pages d'Accès
-**Admin Page**
+**Admin Pages**
 
 - Login
 <img src="captures/login_admin.PNG">
@@ -65,7 +65,7 @@ us les composants, services, intercepteurs et guards ont été testés de maniè
 - Pagination
   <img src="captures/pagination.PNG">
 
-**User Page**
+**User Pages**
 
 - Login
 <img src="captures/login_user.PNG">
