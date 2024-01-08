@@ -84,8 +84,7 @@ us les composants, services, intercepteurs et guards ont été testés de maniè
 - Chercher un compte
   <img src="captures/account_user.PNG">
 
-- Client lier a un compte
-  <img src="captures/client_account.PNG">
+
 
 ### Conclusion
 Ce projet a permis de mettre en place une application frontend robuste et sécurisée, répondant efficacement aux exigences de gestion bancaire. La structure claire du code, la mise en œuvre des fonctionnalités, ainsi que le système de sécurité intégré témoignent de l'efficacité de la conception.
