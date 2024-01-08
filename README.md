@@ -70,8 +70,7 @@ us les composants, services, intercepteurs et guards ont été testés de maniè
 - Pagination
   <img src="captures/pagination.PNG">
 
-- Client lier a un compte
-  <img src="captures/client_account.PNG">
+
 **User Pages**
 
 - Login
