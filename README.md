@@ -36,6 +36,9 @@ Il est important de souligner que ce compte rendu se concentre principalement su
 us les composants, services, intercepteurs et guards ont été testés de manière exhaustive pour assurer un fonctionnement correct et identifier tout comportement indésirable.
 
 ### Gestion des Pages d'Accès
++ JWT_Token
+  <img src="captures/jwt_token.PNG">
+
 **Admin Pages**
 
 - Login
